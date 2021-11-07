@@ -2,4 +2,4 @@
 For CutieHack 2021
 
 
-![Alt Text](https://s10.gifyu.com/images/symSurv.md.gif)
+![Alt Text](https://i.imgur.com/Fxkf4no.gif[)
