@@ -1,4 +1,4 @@
-#**** SymbioticSurvival---CutieHack2021
+**#SymbioticSurvival---CutieHack2021**
 ###For CutieHack 2021: #####(Johnnie Dinh, Davis Kim, Andrew Pham, Andrew Kang)
 
 
